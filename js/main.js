@@ -1,3 +1,5 @@
 $(document).ready(function(){
-    // jquery in here
+    $('#mixitup').mixItUp();
+
+    $("a[href^='http']").attr("target","_blank");
 });
