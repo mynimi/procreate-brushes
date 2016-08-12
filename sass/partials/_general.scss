@@ -33,7 +33,23 @@
             font-size: .8em;
             position: absolute;
             top: 13px;
+            left: 13px;
+            box-sizing: border-box;
+            padding: 3px;
+            line-height: 1;
+        }
+    }
+
+    .new{
+        position: relative;
+        &:before{
+            content: "new";
+            background: $blood;
+            color: white;
+            font-size: .8em;
+            position: absolute;
             right: 13px;
+            top: 13px;
             box-sizing: border-box;
             padding: 3px;
             line-height: 1;
