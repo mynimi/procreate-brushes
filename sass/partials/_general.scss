@@ -10,6 +10,14 @@
         display: none;
         text-align: center;
 
+        @media screen and (max-width: 870px){
+            width: calc(50% - 10px);
+        }
+
+        @media screen and (max-width: 570px){
+            width: calc(100% - 10px);
+        }
+
         img{
             max-width: 100%;
         }
@@ -46,7 +54,8 @@
 
 .filter{
     cursor: pointer;
-    margin: 0 10px;
+    margin: 5px 10px;
+    display: inline-block;
 }
 
 .social{
