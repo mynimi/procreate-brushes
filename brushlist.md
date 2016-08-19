@@ -70,4 +70,11 @@ Mono_V.brush
 Minimalist.brush
 Mono_smooth.brush
 
+// Custom Splatter
+Fray.brush
+Ink.brush
+Ribbon.brush
+Shade.brush
+Worker.brush 
+
 // http://halfapx.com/procreate-brushes/download/
