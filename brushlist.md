@@ -75,6 +75,9 @@ Fray.brush
 Ink.brush
 Ribbon.brush
 Shade.brush
-Worker.brush 
+Worker.brush
+
+// Non Lettering
+Microglitter.brush
 
 // http://halfapx.com/procreate-brushes/download/

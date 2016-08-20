@@ -9,21 +9,21 @@ html(lang="de")
     body
         .container.large
             h1 Custom Procreate Lettering Brushes
+            br
             h2 
-                p 
-                    a(href="http://halfapx.com/en") my Blog
-            p.social
-                a(href="https://instagram.com/halfapx" )
-                    i.fa.fa-lg.fa-instagram
-                a(href="https://www.youtube.com/channel/UCyqTehIKsNFZF0plqhnqUPA" )
-                    i.fa.fa-lg.fa-youtube
-                a(href="https://twitter.com/halfapx" )
-                    i.fa.fa-lg.fa-twitter
+                a(href="http://halfapx.com/en") Blog 
+                a.social(href="https://instagram.com/halfapx" )
+                    i.fa.fa-lg.fa-instagram 
+                a.social(href="https://www.youtube.com/halfapx" )
+                    i.fa.fa-lg.fa-youtube 
+                a.social(href="https://twitter.com/halfapx" )
+                    i.fa.fa-lg.fa-twitter 
+            br
             p New to iPad Lettering? Check out my #[a(href="http://halfapx.com/en/ipad-lettering-101/" ) iPad Lettering 101] Blogpost.
             p #[a(href="http://halfapx.com/en/all-my-procreate-brushes/") Instructions on how to Download]
             p Do you want to improve the look of your lettering without additional skill? #[a(href="http://halfapx.com/en/pressure-curve-for-ipadlettering/") Learn how to set up your pressure curve.]
             p Tap the image to enlarge. Use the filters below to help with finding what you are looking for.
-            p There are currently 62 Brushes. 43 of them are free.
+            p There are currently 63 Brushes. 44 of them are free.
             p
             .filters
                 span.btn.filter(data-filter="all") Show All
@@ -34,6 +34,7 @@ html(lang="de")
                 span.btn.filter(data-filter=".special") Special
                 span.btn.filter(data-filter=".favorite") My Favorites
                 span.btn.filter(data-filter=".essential") Essentials
+                span.btn.filter(data-filter=".nonlettering") Non Lettering
             .box#mixitup
                 each brush in brushes 
                     .mix(class="#{brush.cat.join(' ')}")
