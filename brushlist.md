@@ -80,4 +80,6 @@ Worker.brush
 // Non Lettering
 Microglitter.brush
 
+Black.brush
+
 // http://halfapx.com/procreate-brushes/download/
