@@ -82,4 +82,18 @@ Microglitter.brush
 
 Black.brush
 
+Blunt_Pencil.brush
+chalk2.brush
+Char.brush
+Charcoal.brush
+Coal.brush
+Fallout.brush
+Flick.brush
+Gel_liner.brush
+Skip.brush
+Triangle.brush
+Walnut.brush
+Waters.brush
+Wired.brush
+
 // http://halfapx.com/procreate-brushes/download/
