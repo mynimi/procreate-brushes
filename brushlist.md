@@ -96,4 +96,11 @@ Walnut.brush
 Waters.brush
 Wired.brush
 
+
+Dyn.brush
+Paper_plane.brush
+Squiggle.brush
+Stitches.brush
+Vibes.brush
+
 // http://halfapx.com/procreate-brushes/download/
