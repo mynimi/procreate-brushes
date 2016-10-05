@@ -103,4 +103,12 @@ Squiggle.brush
 Stitches.brush
 Vibes.brush
 
+
+Wither.brush
+Royal.brush
+Waves.brush
+Scribble.brush
+Midnight.brush
+Paper.brush
+
 // http://halfapx.com/procreate-brushes/download/
