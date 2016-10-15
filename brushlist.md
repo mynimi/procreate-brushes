@@ -111,4 +111,6 @@ Scribble.brush
 Midnight.brush
 Paper.brush
 
+Azim.brush
+
 // http://halfapx.com/procreate-brushes/download/
