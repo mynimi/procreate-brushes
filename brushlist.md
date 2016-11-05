@@ -113,4 +113,10 @@ Paper.brush
 
 Azim.brush
 
+Waves-2.brush
+Slinky.brush
+Stair.brush
+Flips.brush
+Boxed.brush
+
 // http://halfapx.com/procreate-brushes/download/
